@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @balfatih
-- 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning. 
-- 🌱 I’m currently learning GAN Models. 
-- 💞️ I’m looking to collaborate on machine learning technologies in agriculture. 
-- 📫 How to reach me fatihbal@outlook.com / balfatiihh@gmail.com 
+- 👀 I’m interested in Data Science, Machine Learning, Deep Learning. 
+- 🌱 I’m currently studying CNN Models and Machine Learning Models. 
+- 💞️ I’m looking to collaborate on machine learning technologies in agriculture and health. 
+- 📫 How to reach me fatihbal@outlook.com / balfatiihh@gmail.com OR balfatih.github.io
 
 <!---
 balfatih/balfatih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
