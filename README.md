@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Dr. Fatih Bal  
 
-- 🎓 Assistant Professor in the [Department of Software Engineering](https://yazilim.klu.edu.tr/) at [Kırklareli University](https://www.klu.edu.tr/) at 
+- 🎓 Assistant Professor in the [Department of Software Engineering](https://yazilim.klu.edu.tr/) at [Kırklareli University](https://www.klu.edu.tr/)
 
 - 🔬 Researcher in **Data Science | Machine Learning | Deep Learning**  
 - 🌱 Currently working on **CNN-based hybrid models, Vision Transformers, and machine learning applications in agriculture and healthcare.**  
