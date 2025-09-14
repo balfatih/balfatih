@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Dr. Fatih Bal  
 
-- 🎓 Assistant Professor @ [Üniversite Adı]  
+- 🎓 Assistant Professor @ [Kırklareli University]  
 - 🔬 Researcher in **Data Science | Machine Learning | Deep Learning**  
 - 🌱 Currently working on **CNN-based hybrid models, Vision Transformers, and machine learning applications in agriculture and healthcare.**  
 - 📖 Author of *Uygulamalarla Makine Öğrenmesi ve Derin Öğrenme*  
