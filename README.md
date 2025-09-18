@@ -4,13 +4,13 @@
 
 - 🔬 Researcher in **Data Science | Machine Learning | Deep Learning**  
 - 🌱 Currently working on **CNN-based hybrid models, Vision Transformers, and machine learning applications in agriculture and healthcare.**  
-- 📖 Author of *Uygulamalarla Makine Öğrenmesi ve Derin Öğrenme*  
-- 📊 Teaching: **Artificial Intelligence, Deep Learning, Software Architecture**  
+- 📖 Author of *Uygulamalarla Makine Öğrenmesi ve Derin Öğrenme*  (Soon)
+- 📊 Teaching: **Artificial Intelligence, Machine Learning, Deep Learning, Software Design, Software Architecture**  
 
 ### 🔍 Research Interests  
 - Computer Vision (Image Classification, Object Detection)  
 - Agricultural AI Applications (Plant disease detection, yield estimation)  
-- Biomedical AI (Diabetic Retinopathy, Medical Image Analysis)  
+- Biomedical AI (Medical image classification, data analysis)  
 
 ### 📚 Publications & Profiles  
 - [Google Scholar](https://scholar.google.com/citations?user=H_Nk1OQAAAAJ&hl=tr)  
@@ -19,7 +19,7 @@
 - [LinkedIn](https://www.linkedin.com/in/fatih-bal/)  
 
 ### 📫 Contact  
-fatihbal@outlook.com | balfatiihh@gmail.com  | fatihbal {@} klu.edu.tr
+fatihbal {@} klu.edu.tr | fatihbal {@} outlook.com | balfatiihh {@} gmail.com 
 
 ---
 
