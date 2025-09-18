@@ -15,8 +15,8 @@
 ### 📚 Publications & Profiles  
 - [Google Scholar](https://scholar.google.com/citations?user=H_Nk1OQAAAAJ&hl=tr)  
 - [ResearchGate](https://www.researchgate.net/profile/Fatih-Bal)  
-- [ORCID]([https://orcid.org/](https://orcid.org/0000-0002-7179-1634))  
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/fatih-bal/))  
+- [ORCID](https://orcid.org/](https://orcid.org/0000-0002-7179-1634)  
+- [LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/fatih-bal/)  
 
 ### 📫 Contact  
 fatihbal@outlook.com | balfatiihh@gmail.com  | fatihbal {@} klu.edu.tr
