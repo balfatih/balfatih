@@ -19,7 +19,7 @@
 - [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/fatih-bal/))  
 
 ### 📫 Contact  
-fatihbal@outlook.com | balfatiihh@gmail.com  
+fatihbal@outlook.com | balfatiihh@gmail.com  | fatihbal {@} klu.edu.tr
 
 ---
 
