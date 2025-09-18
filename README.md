@@ -22,6 +22,3 @@
 fatihbal {@} klu.edu.tr | fatihbal {@} outlook.com | balfatiihh {@} gmail.com 
 
 ---
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balfatih&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balfatih&layout=compact&theme=radical)  
